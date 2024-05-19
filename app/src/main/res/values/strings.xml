@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Sim Registration App</string>
+    <string name="sim_registration_title">Sim Registration App by Kurt Robin Colonia</string>
+
+    <string name="editTxtName_hint">Name</string>
+    <string name="editTxtContact_hint">Contact Number</string>
+    <string name="editTxtSim_hint">Sim Network</string>
+    <string name="editTxtAddr_hint">Complete Address</string>
+
+    <string name="btnRegister">Register</string>
+
+    <string name="editTxtSuccess">Sim Registration Successful!</string>
+    <string name="editTxtDetails">Here are your details:</string>
+</resources>
